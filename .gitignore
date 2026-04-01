@@ -1,9 +1,10 @@
 
-# Logs# Custom (project specific)
-public/temp/
+# Custom (project specific)
 .env
 .env.*
+!.env.sample
 
+node_modules/
 
 logs
 *.log
